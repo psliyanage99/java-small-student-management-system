@@ -30,4 +30,5 @@ Computer Science 101
 </ul>
 
 <h2>Output</h2>
-![out](https://github.com/user-attachments/assets/f765bea1-7628-4950-a6c1-dcb0395d9bcd)
+<img src = "https://github.com/user-attachments/assets/f765bea1-7628-4950-a6c1-dcb0395d9bcd">
+
